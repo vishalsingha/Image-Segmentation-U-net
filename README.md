@@ -21,8 +21,8 @@ U-net model having (None, 256, 256, 3) as input dim and (None 256, 256, 3) as ou
   * validation size : 736
   * test size : 3369
 <p float="left">
-<img src="https://github.com/vishalsingha/Image-Segmentation-U-net/blob/main/Images/Segmentation_unet/acc.png?raw=true" width="450" height="300">
-<img src="https://github.com/vishalsingha/Image-Segmentation-U-net/blob/main/Images/Segmentation_unet/loss.png?raw=true" width="450" height="300">
+<img src="https://github.com/vishalsingha/Image-Segmentation-U-net/blob/main/Images/Segmentation_unet/acc.png?raw=true" width="400" height="275">
+<img src="https://github.com/vishalsingha/Image-Segmentation-U-net/blob/main/Images/Segmentation_unet/loss.png?raw=true" width="400" height="275">
 </p>
 
 * Custom train and test size (segmentation_Unet_final.ipynb) :
@@ -31,8 +31,8 @@ U-net model having (None, 256, 256, 3) as input dim and (None 256, 256, 3) as ou
      * test size : 625
   
 <p float="left">
-<img src="https://github.com/vishalsingha/Image-Segmentation-U-net/blob/main/Images/Segmentation_unet_final/acc1.png?raw=true" width="450" height="300" >
-<img src="https://github.com/vishalsingha/Image-Segmentation-U-net/blob/main/Images/Segmentation_unet_final/loss1.png?raw=true" width="450" height="300">
+<img src="https://github.com/vishalsingha/Image-Segmentation-U-net/blob/main/Images/Segmentation_unet_final/acc1.png?raw=true" width="400" height="275" >
+<img src="https://github.com/vishalsingha/Image-Segmentation-U-net/blob/main/Images/Segmentation_unet_final/loss1.png?raw=true" width="400" height="275">
 </p>
 
 ## Varification on test data (real vs predicted)
